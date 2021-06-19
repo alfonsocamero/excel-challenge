@@ -17,4 +17,3 @@ Some of the limitations of this dataset lie in relatively negligible goal amount
 What are some other possible tables and/or graphs that we could create?
 
 1.	A table featuring the subcategories as rows and the average of percentage funded as values can reveal what subcategories received funding well over 200% of their goal. Such table would reveal that tabletop game campaigns, followed by hardware (particularly in the technology field) campaigns received overwhelming overfunding among all successful campaigns.
-![image](https://user-images.githubusercontent.com/83420007/122643703-5d81bc80-d0df-11eb-9572-2184d8965f20.png)
